@@ -1,0 +1,7 @@
+2025-Jun-28-16:40:31:Data extraction complete. Initiating Transformation process
+2025-Jun-28-16:40:31:Data transformation complete. Initiating Loading process
+2025-Jun-28-16:40:31:Data saved to CSV file
+2025-Jun-28-16:40:33:Data loaded to Database as a table, Executing queries
+2025-Jun-28-16:40:33:Process Complete
+2025-Jun-28-16:40:33:Process Complete
+2025-Jun-28-16:40:33:Process Complete
